@@ -1,6 +1,6 @@
 {
-  "name": "service-worker-web-dev",
-  "short_name": "service-worker-web-dev",
+  "name": "manifest-web-dev",
+  "short_name": "manifest-web-dev",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
